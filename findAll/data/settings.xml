@@ -1,0 +1,54 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <KeyItemDisplay>true</KeyItemDisplay>
+        <Track>Holy: ${inventory:Holy Water} Remedy: ${inventory:Remedy}</Track>
+        <Tracker>
+            <bg>
+                <alpha>255</alpha>
+                <blue>0</blue>
+                <green>0</green>
+                <red>0</red>
+                <visible>false</visible>
+            </bg>
+            <flags>
+                <bold>false</bold>
+                <bottom>false</bottom>
+                <draggable>true</draggable>
+                <italic>false</italic>
+                <right>false</right>
+            </flags>
+            <padding>0</padding>
+            <pos>
+                <x>130</x>
+                <y>160</y>
+            </pos>
+            <text>
+                <alpha>255</alpha>
+                <blue>255</blue>
+                <font>Arial</font>
+                <fonts>
+
+                </fonts>
+                <green>255</green>
+                <red>255</red>
+                <size>10</size>
+                <stroke>
+                    <alpha>255</alpha>
+                    <blue>0</blue>
+                    <green>0</green>
+                    <red>0</red>
+                    <width>1.5</width>
+                </stroke>
+            </text>
+        </Tracker>
+    </global>
+    <aragan>
+        <Tracker>
+            <pos>
+                <x>758</x>
+                <y>584</y>
+            </pos>
+        </Tracker>
+    </aragan>
+</settings>

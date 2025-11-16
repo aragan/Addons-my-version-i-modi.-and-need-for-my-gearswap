@@ -1,0 +1,30 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <cast_delay>0.35</cast_delay>
+        <cast_range>22</cast_range>
+        <cast_tier>6</cast_tier>
+        <cast_type>spell</cast_type>
+        <change_target>true</change_target>
+        <check_day>false</check_day>
+        <check_weather>true</check_weather>
+        <disable_on_zone>false</disable_on_zone>
+        <double_burst>true</double_burst>
+        <double_burst_delay>4</double_burst_delay>
+        <frequency>1</frequency>
+        <gearswap>false</gearswap>
+        <mp>100</mp>
+        <show_bonus_elements>false</show_bonus_elements>
+        <show_elements>false</show_elements>
+        <show_skillchain>false</show_skillchain>
+        <show_spell>false</show_spell>
+        <step_down>1</step_down>
+        <useAOE>true</useAOE>
+    </global>
+    <aragan>
+        <cast_delay>0</cast_delay>
+        <cast_tier>5</cast_tier>
+        <double_burst_delay>2</double_burst_delay>
+        <step_down>2</step_down>
+    </aragan>
+</settings>

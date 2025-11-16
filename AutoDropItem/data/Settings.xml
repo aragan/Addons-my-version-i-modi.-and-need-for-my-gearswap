@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<addon>
+    <name>AutoDropItem</name>
+    <author>Aragan</author>
+    <version>1.0</version>
+    <windower>4.3</windower>
+    <description>Automatically detects and manages dropped items.</description>
+</addon>
