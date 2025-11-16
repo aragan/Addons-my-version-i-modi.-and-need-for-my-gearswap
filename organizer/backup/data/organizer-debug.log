@@ -1,0 +1,89 @@
+Organizer loaded at Sun Mar 16 01:01:51 2025
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding inventory to the pull list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding satchel to the pull list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding sack to the pull list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding safe to the pull list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding wardrobe to the pull list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding storage to the pull list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding locker to the pull list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding safe2 to the pull list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding case to the pull list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding satchel to the push list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding safe2 to the push list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding safe to the push list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding locker to the push list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding sack to the push list
+2025-03-16 01:01:51| Organizer [VERBOSE] Adding case to the push list
+2025-03-16 01:01:51| Organizer [VERBOSE] Non-equipment items set to retain
+2025-03-16 01:01:51| Organizer [VERBOSE] Slips set to retain
+2025-03-16 01:01:59| Organizer [MSG] Starting...
+2025-03-16 01:01:59| Organizer [VERBOSE] Getting!
+2025-03-16 01:01:59| Organizer [WARN] Thr. Tomahawk not found.
+2025-03-16 01:01:59| Organizer [WARN] Begrudging Ring not found.
+2025-03-16 01:01:59| Organizer [WARN] Eschan Stone not found.
+2025-03-16 01:01:59| Organizer [WARN] Boii Earring +1 not found.
+2025-03-16 01:01:59| Organizer [WARN] Shabti Sabatons not found.
+2025-03-16 01:01:59| Organizer [WARN] Volte Sollerets not found.
+2025-03-16 01:01:59| Organizer [WARN] Grape Daifuku not found.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Hidhaegg's Scale) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (7 41 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Silent Oil) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 45 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Salt Ramen) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 43 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [WARN] Moogle Amp. not found.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Vile Elixir) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 38 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Reraiser) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 48 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Holy Water) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 53 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Remedy) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 55 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Sovereign's Hide) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (7 60 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Tumult's Blood) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (7 25 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Rolan. Daifuku) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 49 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Red Curry Bun) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 50 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [WARN] Wh. Rarab Cap +1 not found.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Antacid) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 51 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [WARN] Pukatrice Egg not found.
+2025-03-16 01:01:59| Organizer [WARN] Om. Sandwich not found.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Panacea) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 52 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Vile Elixir +1) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 47 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Hi-Reraiser) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 7 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Sarama's Hide) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (7 59 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Shihei) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 44 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Prism Powder) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 56 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Skipping item: (Icarus Wing) - can not be pushed to Inventory) 
+2025-03-16 01:01:59| Organizer [WARN] Initial movement of the route failed. (5 46 false 0)
+2025-03-16 01:01:59| Organizer [WARN] Unable to move item.
+2025-03-16 01:01:59| Organizer [VERBOSE] Got 0 item(s), and failed getting 19 item(s)

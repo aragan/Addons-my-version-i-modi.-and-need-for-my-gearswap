@@ -1,0 +1,213 @@
+Organizer loaded at Sun Mar 16 07:30:28 2025
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding inventory to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding wardrobe7 to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding satchel to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding wardrobe8 to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding wardrobe6 to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding wardrobe5 to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding sack to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding safe2 to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding wardrobe3 to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding wardrobe4 to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding safe to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding wardrobe to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding storage to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding locker to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding wardrobe2 to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding case to the pull list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding locker to the push list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding satchel to the push list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding safe2 to the push list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding safe to the push list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding sack to the push list
+2025-03-16 07:30:28| Organizer [VERBOSE] Adding case to the push list
+2025-03-16 07:30:28| Organizer [VERBOSE] Non-equipment items set to retain
+2025-03-16 07:30:28| Organizer [VERBOSE] Slips set to retain
+2025-03-16 07:30:47| Organizer [MSG] Starting...
+2025-03-16 07:30:47| Organizer [VERBOSE] Getting!
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Automat. Oil +3) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (5 37 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Rumination Sash) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Denouements) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 20 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Volte Harness) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 30 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Heyoka Harness) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 33 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Heyoka Mittens) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 31 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Volte Spats) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 35 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Grape Daifuku) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (9 60 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Sakpata's Fists) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 58 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Moogle Amp.) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (9 73 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Varga Purnikawa) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (9 18 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Bean Daifuku) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (9 26 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Got 0 item(s), and failed getting 12 item(s)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Mochi. Hatsuburi +3) from Inventory 34 to Locker 61)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Mochi. Kyahan +3) from Inventory 33 to Locker 62)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Hattori Tekko +2) from Inventory 32 to Locker 63)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Hattori Kyahan +2) from Inventory 31 to Locker 64)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Hiza. Sune-Ate +2) from Inventory 30 to Locker 65)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Hizamaru Ring) from Inventory 29 to Locker 66)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Mummu Bonnet +2) from Inventory 28 to Locker 67)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Mummu Jacket +2) from Inventory 27 to Locker 68)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Mummu Wrists +2) from Inventory 26 to Locker 69)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Mummu Kecks +2) from Inventory 25 to Locker 70)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Mummu Gamash. +2) from Inventory 24 to Locker 71)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Mummu Ring) from Inventory 23 to Locker 72)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Qutrub Knife) from Inventory 22 to Locker 73)
+2025-03-16 07:30:47| Organizer [VERBOSE] Moving item! (Profane Staff) from Inventory 21 to Locker 74)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Remainder: 12 Current: 20
+2025-03-16 07:30:47| Organizer [VERBOSE] Getting!
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Automat. Oil +3) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (5 37 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Rumination Sash) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 4 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Denouements) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 20 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Volte Harness) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 30 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Heyoka Harness) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 33 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Heyoka Mittens) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 31 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Volte Spats) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 35 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Grape Daifuku) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (9 60 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Sakpata's Fists) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (1 58 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Moogle Amp.) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (9 73 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Varga Purnikawa) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (9 18 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Bean Daifuku) - can not be pushed to Inventory) 
+2025-03-16 07:30:47| Organizer [WARN] Initial movement of the route failed. (9 26 false 0)
+2025-03-16 07:30:47| Organizer [WARN] Unable to move item.
+2025-03-16 07:30:47| Organizer [VERBOSE] Got 0 item(s), and failed getting 12 item(s)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-16 07:30:47| Organizer [MSG] Done! - 205 items matched and 12 items missing!
+2025-03-16 07:30:47| Organizer [VERBOSE] Item Missing: automat. oil +3 
+2025-03-16 07:30:47| Organizer [VERBOSE] Item Missing: rumination sash 
+2025-03-16 07:30:47| Organizer [VERBOSE] Item Missing: denouements 
+2025-03-16 07:30:47| Organizer [VERBOSE] Item Missing: volte harness 
+2025-03-16 07:30:47| Organizer [VERBOSE] Item Missing: heyoka harness 
+2025-03-16 07:30:47| Organizer [VERBOSE] Item Missing: heyoka mittens 
+2025-03-16 07:30:47| Organizer [VERBOSE] Item Missing: volte spats 
+2025-03-16 07:30:47| Organizer [VERBOSE] Item Missing: grape daifuku 
+2025-03-16 07:30:47| Organizer [VERBOSE] Item Missing: sakpata's fists 
+2025-03-16 07:30:47| Organizer [VERBOSE] Item Missing: moogle amp. 
+2025-03-16 07:30:47| Organizer [VERBOSE] Item Missing: varga purnikawa 
+2025-03-16 07:30:47| Organizer [VERBOSE] Item Missing: bean daifuku 
+2025-03-16 07:31:38| Organizer [MSG] Starting...
+2025-03-16 07:31:38| Organizer [VERBOSE] Getting!
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Vishap Brais +1) - can not be pushed to Inventory) 
+2025-03-16 07:31:38| Organizer [WARN] Initial movement of the route failed. (5 58 false 0)
+2025-03-16 07:31:38| Organizer [WARN] Unable to move item.
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Begrudging Ring) - can not be pushed to Inventory) 
+2025-03-16 07:31:38| Organizer [WARN] Initial movement of the route failed. (4 67 false 0)
+2025-03-16 07:31:38| Organizer [WARN] Unable to move item.
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Buremte Gloves) - can not be pushed to Inventory) 
+2025-03-16 07:31:38| Organizer [WARN] Initial movement of the route failed. (1 23 false 0)
+2025-03-16 07:31:38| Organizer [WARN] Unable to move item.
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Kunaji Ring) - can not be pushed to Inventory) 
+2025-03-16 07:31:38| Organizer [WARN] Initial movement of the route failed. (1 24 false 0)
+2025-03-16 07:31:38| Organizer [WARN] Unable to move item.
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Angon) - can not be pushed to Inventory) 
+2025-03-16 07:31:38| Organizer [WARN] Initial movement of the route failed. (1 25 false 0)
+2025-03-16 07:31:38| Organizer [WARN] Unable to move item.
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Salt Ramen) - can not be pushed to Inventory) 
+2025-03-16 07:31:38| Organizer [WARN] Initial movement of the route failed. (4 72 false 0)
+2025-03-16 07:31:38| Organizer [WARN] Unable to move item.
+2025-03-16 07:31:38| Organizer [VERBOSE] Got 0 item(s), and failed getting 6 item(s)
+2025-03-16 07:31:38| Organizer [VERBOSE] Moving item! (Hiza. Haramaki +2) from Inventory 20 to Locker 75)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Moving item! (Eschan Stone) from Inventory 19 to Locker 76)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Remainder: 6 Current: 18
+2025-03-16 07:31:38| Organizer [VERBOSE] Getting!
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Vishap Brais +1) - can not be pushed to Inventory) 
+2025-03-16 07:31:38| Organizer [WARN] Initial movement of the route failed. (5 58 false 0)
+2025-03-16 07:31:38| Organizer [WARN] Unable to move item.
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Begrudging Ring) - can not be pushed to Inventory) 
+2025-03-16 07:31:38| Organizer [WARN] Initial movement of the route failed. (4 67 false 0)
+2025-03-16 07:31:38| Organizer [WARN] Unable to move item.
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Buremte Gloves) - can not be pushed to Inventory) 
+2025-03-16 07:31:38| Organizer [WARN] Initial movement of the route failed. (1 23 false 0)
+2025-03-16 07:31:38| Organizer [WARN] Unable to move item.
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Kunaji Ring) - can not be pushed to Inventory) 
+2025-03-16 07:31:38| Organizer [WARN] Initial movement of the route failed. (1 24 false 0)
+2025-03-16 07:31:38| Organizer [WARN] Unable to move item.
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Angon) - can not be pushed to Inventory) 
+2025-03-16 07:31:38| Organizer [WARN] Initial movement of the route failed. (1 25 false 0)
+2025-03-16 07:31:38| Organizer [WARN] Unable to move item.
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Salt Ramen) - can not be pushed to Inventory) 
+2025-03-16 07:31:38| Organizer [WARN] Initial movement of the route failed. (4 72 false 0)
+2025-03-16 07:31:38| Organizer [WARN] Unable to move item.
+2025-03-16 07:31:38| Organizer [VERBOSE] Got 0 item(s), and failed getting 6 item(s)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 23) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 27) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 25) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 30) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [VERBOSE] Skipping item: (Storage Slip 29) because it is set to be retained (slips)
+2025-03-16 07:31:38| Organizer [MSG] Done! - 152 items matched and 6 items missing!
+2025-03-16 07:31:38| Organizer [VERBOSE] Item Missing: vishap brais +1 
+2025-03-16 07:31:38| Organizer [VERBOSE] Item Missing: begrudging ring 
+2025-03-16 07:31:38| Organizer [VERBOSE] Item Missing: buremte gloves 
+2025-03-16 07:31:38| Organizer [VERBOSE] Item Missing: kunaji ring 
+2025-03-16 07:31:38| Organizer [VERBOSE] Item Missing: angon 
+2025-03-16 07:31:38| Organizer [VERBOSE] Item Missing: salt ramen 
