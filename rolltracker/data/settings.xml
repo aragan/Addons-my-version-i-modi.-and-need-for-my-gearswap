@@ -1,0 +1,10 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <autostopper>true</autostopper>
+        <bust>1</bust>
+        <effected>1</effected>
+        <fold>1</fold>
+        <luckyinfo>true</luckyinfo>
+    </global>
+</settings>
