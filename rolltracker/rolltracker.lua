@@ -25,8 +25,8 @@
 --SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 _addon.name = 'RollTracker'
-_addon.version = '1.8.1.0'
-_addon.author = 'Balloon'
+_addon.version = '1.9.1.0'
+_addon.author = 'Balloon, Aragan'
 _addon.commands = {'rolltracker','rt'}
 
 require('luau')
@@ -41,48 +41,49 @@ local texts = require('texts')
 local rt_hud          = texts.new()
 local rt_hud_visible  = false
 local rt_hud_timestamp = 0
-local rt_hud_duration  = 50  -- seconds to show HUD
+local rt_hud_duration  = 99  -- seconds to show HUD
 
 
 local function rt_init_hud()
     rt_hud:pos(700, 100) -- adjust position for your screen
-    rt_hud:bg_color(0, 0, 0)
-    rt_hud:bg_alpha(150)
-    rt_hud:color(255, 255, 255)
-    rt_hud:font('Arial')
-    rt_hud:size(12)
-    rt_hud:hide()
-end
+    rt_hud:bg_color(0, 0, 0) -- background color (R, G, B)
+    rt_hud:bg_alpha(80) -- background transparency (0-255, where 0 is fully transparent and 255 is fully opaque)
+    rt_hud:color(255, 255, 255) -- text color (R, G, B)
+    rt_hud:font('Arial') -- font type
+    rt_hud:size(12) -- font size
+    rt_hud:hide() -- hide HUD initially
 
+end
+-- Function to display the HUD with a message
 local function rt_show_hud(msg)
-    rt_hud:text(msg)
-    rt_hud:show()
-    rt_hud_visible   = true
-    rt_hud_timestamp = os.time()
+    rt_hud:text(msg) -- Set the HUD text to the provided message
+    rt_hud:show() -- Make the HUD visible
+    rt_hud_visible = true -- Set the HUD visibility flag to true
+    rt_hud_timestamp = os.time() -- Record the current time as the timestamp
 end
 
-windower.register_event('load', function()
-    rt_init_hud()
+windower.register_event('load', function()  -- Registers an event that triggers when the addon is loaded.
+    rt_init_hud()  -- Calls the function to initialize the HUD (Heads-Up Display).
 end)
 
-windower.register_event('prerender', function()
-    if rt_hud_visible and os.time() - rt_hud_timestamp >= rt_hud_duration then
-        rt_hud:hide()
-        rt_hud_visible = false
+windower.register_event('prerender', function()  -- Registers an event that triggers before each frame is rendered.
+    if rt_hud_visible and os.time() - rt_hud_timestamp >= rt_hud_duration then  -- Checks if the HUD is visible and if the duration has passed.
+        rt_hud:hide()  -- Hides the HUD.
+        rt_hud_visible = false  -- Updates the visibility status of the HUD to false.
     end
 end)
 
 
 
 
-defaults = {}
-defaults.autostopper = true
-defaults.bust = 1
-defaults.effected = 1
-defaults.fold = 1
-defaults.luckyinfo = true
+defaults = {} -- Create an empty table named 'defaults' to store default configuration values.
+defaults.autostopper = true -- Add a key 'autostopper' to the 'defaults' table and set its value to 'true'.
+defaults.bust = 1 -- Add a key 'bust' to the 'defaults' table and set its value to 1.
+defaults.effected = 1 -- Add a key 'effected' to the 'defaults' table and set its value to 1.
+defaults.fold = 1 -- Add a key 'fold' to the 'defaults' table and set its value to 1.
+defaults.luckyinfo = true -- Add a key 'luckyinfo' to the 'defaults' table and set its value to 'true'.
 
-settings = config.load(defaults)
+settings = config.load(defaults) -- Load the 'defaults' table into the 'config' module, which likely applies or saves these settings.
 
 windower.register_event('addon command',function (...)
     cmd = {...}
