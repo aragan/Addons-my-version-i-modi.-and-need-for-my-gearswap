@@ -1,0 +1,22 @@
+    help_text = "|Apollyon| \n[sw] ap [warp/w] 
+/con input //sw ap w a next 
+[all/a/@all/party/p] e1/nw1/sw2/ne5/se3 etc. -- warp to a designated tower and floor in apollyon. \n[sw] ap [all/a/@all] port -- warp to the next floor of any tower, if on last floor will warp to the entrance, if at entrance will warp to nw1. \n[sw] ap [all/a/@all] next -- warp to the first uncompleted floor in sequence, if this is in another tower, will warp to the entrance.\n[sw] ew [all/a/@all] enter -- enter apollyon. \n[sw] ew [all/a/@all] exit -- exit apollyon.\n------------------------------",
+    sub_zone_targets = S {'e1', 'e2', 'nw1', 'nw2', 'nw3', 'nw4', 'nw5', 'sw1', 'sw2', 'sw3','sw4', 'ne1', 'ne2', 'ne3', 'ne4', 'ne5', 'se1', 'se2', 'se3', 'se4'}, 
+
+
+
+-------------
+
+ help_text = "|Temenos|\n[sw] te [warp/w] 
+/con input //sw te w a next 
+[all/a/@all/party/p] e/n1/w2/e5/c3 etc. -- warp to a designated floor in Temenos. \n[sw] te [all/a/@all] port -- warp to the next floor of any tower, if on last floor will warp to the entrance, if at entrance will warp to n1. \n[sw] te [all/a/@all] next -- warp to the first uncompleted floor in sequence, if this is in another tower, will warp to the entrance. \n-----------------------------",
+    sub_zone_targets = S {'entrance','n1', 'n2', 'n3', 'n4', 'n5', 'n6', 'n7', 'w1', 'w2','w3', 'w4', 'w5', 'w6', 'w7', 'e1', 'e2', 'e3', 'e4', 'e5','e6','e7','c1','c2','c3','c4'}, 
+
+--------
+
+sortie
+
+Difficulty not set - Use //so normal or //so hard ; alternatively, set the Aminon difficulty before using //so port.'
+
+    help_text = "|Sortie| - [sw] so [warp/w] [all/a/@all/party/p] 0/1/2/3/4  OR  s/#a/#b/#c/#d -- warp to a designated Device in Sortie. (Use only with devices)\n[sw] so [all/a/@all] port -- warp to the other side of any bitzer or gadget. \n[sw] so [all/a/@all] normal -- set Aminon difficulty to normal and warp into his chamber. \n[sw] so [all/a/@all] hard -- set Aminon difficulty to hard and warp into his chamber. \n[sw] so repop -- Rematerialize monsters at a device or downstairs bitzer. \n-----------------------------",
+    sub_zone_targets = S {'0', '1', '2', '3', '4', 's', '#a', '#b', '#c', '#d'}, -- Because 'a' is short for 'all' superwarp will try to interpret this as all and will always give a long pause before attempting to warp all characters to a, the best workaround is using # before a and then for balance we'll just go ahead and put it before b, c and d. we'll leave s (start) alone because s is just s; The device doesn't have a # in its name. 
